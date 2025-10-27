@@ -1,8 +1,5 @@
-###  Top 3 produkty w każdej kategorii wg przychodów
-Cel biznesowy: Zidentyfikować najlepiej sprzedające się produkty w każdej kategorii.
-
-
-
+-- Top 3 products in each catgeory by revenue
+-- Business Goal: Identify the best-selling products in each category.
 
 
 WITH CTE AS
