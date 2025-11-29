@@ -2,7 +2,7 @@ Projekt prezentuje analizę danych sprzedażowych i zwrotów produktów przy uż
 * Top 3 produktów w każdej kategorii pod względem przychodu
 * Najczęściej zwracanych produktów.
 
-Analiza została wykonana na danych sklepu internetowego, z wykorzystaniem funkcji okienkowych, agregacji oraz CTE.
+
 
 Cele biznesowe
 1. Best-selling products
