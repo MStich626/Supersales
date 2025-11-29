@@ -1,3 +1,31 @@
+Projekt prezentuje analizę danych sprzedażowych i zwrotów produktów przy użyciu SQL. Głównym celem jest zidentyfikowanie:
+* Top 3 produktów w każdej kategorii pod względem przychodu
+* Najczęściej zwracanych produktów.
+
+Analiza została wykonana na danych sklepu internetowego, z wykorzystaniem funkcji okienkowych, agregacji oraz CTE.
+
+Cele biznesowe
+1. Best-selling products
+Cel: Ustalić, które produkty generują największy przychód w ramach każdej kategorii.
+  Korzyści dla biznesu:
+    * wspieranie decyzji o zapasach,
+    * decyzje marketingowe (promocje na najpopularniejsze kategorie),
+    * identyfikacja kluczowych produktów.
+
+2. Most-returned products
+Cel: Określić produkty najczęściej zwracane przez klientów.
+  Korzyści dla biznesu:
+    * identyfikacja potencjalnych problemów jakościowych
+    * poprawa opisu produktu
+    * analiza rentowności
+
+Użyte techniki SQL
+* CTE (Common Table Expressions)
+* Window functions (RANK() OVER (...))
+* Agregacja i grupowanie (SUM, COUNT, GROUP BY)
+
+
+
 # Supersales
 
 Result first query:
