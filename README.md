@@ -3,9 +3,8 @@ Projekt prezentuje analizę danych sprzedażowych i zwrotów produktów przy uż
 * Najczęściej zwracanych produktów.
 
 
-1. Best-selling products
-Cel: Ustalić, które produkty generują największy przychód w ramach każdej kategorii.
-
+1. Best-selling products\n
+Cel: Ustalić, które produkty generują największy przychód w ramach każdej kategorii.\n
 Korzyści dla biznesu:
     * wspieranie decyzji o zapasach,
     * decyzje marketingowe (promocje na najpopularniejsze kategorie),
